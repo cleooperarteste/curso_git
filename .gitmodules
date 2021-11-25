@@ -1,0 +1,3 @@
+[submodule "react-confusion"]
+	path = react-confusion
+	url = https://github.com/cleobatista/react-confusion.git
